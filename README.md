@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naomyxyx
 - 👀 I’m interested in learn 
-- 🌱 I’m currently learning html, Js, Css
+- 🌱 I’m currently learning html, Js, Css, Python, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
